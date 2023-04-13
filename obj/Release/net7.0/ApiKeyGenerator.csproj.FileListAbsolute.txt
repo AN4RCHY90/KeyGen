@@ -1,0 +1,15 @@
+C:\Rider\ApiKeyGenerator\bin\Release\net7.0\ApiKeyGenerator.exe
+C:\Rider\ApiKeyGenerator\bin\Release\net7.0\ApiKeyGenerator.deps.json
+C:\Rider\ApiKeyGenerator\bin\Release\net7.0\ApiKeyGenerator.runtimeconfig.json
+C:\Rider\ApiKeyGenerator\bin\Release\net7.0\ApiKeyGenerator.dll
+C:\Rider\ApiKeyGenerator\bin\Release\net7.0\ApiKeyGenerator.pdb
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ApiKeyGenerator.csproj.AssemblyReference.cache
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ApiKeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ApiKeyGenerator.AssemblyInfoInputs.cache
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ApiKeyGenerator.AssemblyInfo.cs
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ApiKeyGenerator.csproj.CoreCompileInputs.cache
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ApiKeyGenerator.dll
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\refint\ApiKeyGenerator.dll
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ApiKeyGenerator.pdb
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ApiKeyGenerator.genruntimeconfig.cache
+C:\Rider\ApiKeyGenerator\obj\Release\net7.0\ref\ApiKeyGenerator.dll
